@@ -1,0 +1,2 @@
+(self.modernJsonp=self.modernJsonp||[]).push([["38485"],{397141(n,_,o){o.d(_,{A:()=>t});let t=o(688627).A},809915(n,_,o){(window.__PWS_LOADED_HANDLERS__=window.__PWS_LOADED_HANDLERS__||[]).push(["www/about/copyright/dmca-pin",function(){return o(397141).A}])}},function(n){n.O(0,["11778","3204","49517","51405","73935","78180","80816","90051","91796","94094"],function(){return n(n.s=809915)}),n.O()}]);
+//# sourceMappingURL=https://sm.pinimg.com/webapp/www/about/copyright/dmca-pin-9a7c10c002941b6d.mjs.map

@@ -1,0 +1,358 @@
+.g5core-site-branding.logo-center {
+  display: flex;
+  flex-direction: column;
+}
+
+.as-slogan {
+  font-weight: 700;
+  margin-bottom: 12px;
+  color: white;
+  padding: 0 6px;
+  font-family: Glass TYGRA;
+  font-size: 1em;
+}
+
+.g5shop__quick-view i:not(.fa-spinner):before {
+  content: "\f06e"!important;
+  font-family: "Font Awesome 5 Pro"!important;
+}
+
+.vc_row.as-mp-contact .vc_column-inner {
+  margin: 0 auto !important;
+  width: 1140px;
+  max-width: 100%;
+}
+
+.g5shop__product-actions {
+  transform: translate(0) !important;
+  opacity: 1 !important;
+}
+
+.g5shop__quick-view {
+  border-radius: 6px!important;
+  background-color: rgb(255 255 255 / 70%) !important;
+}
+
+.g5shop__quick-view:hover {
+    background-color: var(--g5-product-actions-bg-color-hover)!important;
+    color: var(--g5-product-actions-color-hover)!important;
+}
+
+
+
+.vc_row.as-mp-contact label,
+.vc_row.as-mp-contact span,
+.vc_row.as-mp-contact input,
+.vc_row.as-mp-contact textarea {
+  width: 100%;
+}
+
+.as-about-grid .wpb_wrapper {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 42px 24px;
+}
+
+.as-about-grid .title {
+  margin-bottom: 12px;
+}
+
+.as-contacts-grid__subtitle {
+  margin: 0 !important;
+}
+
+.as-contacts-grid__title {
+  font-size: 16px !important;
+  line-height: 33px !important;
+  color: #000000 !important;
+  text-transform: uppercase;
+  letter-spacing: .2em;
+  margin-bottom: 0.775rem;
+  font-weight: 700;
+}
+
+.as-contacts-grid__items {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 42px;
+}
+
+.as-contacts-grid {
+  margin: 120px auto 0;
+}
+
+.as-icon-box-grid .wpb_wrapper {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 24px;
+}
+
+.as-icon-box-grid .gel-icon-box {
+  padding: 16px;
+  background: #f9f9f9;
+  border-radius: 6px;
+  border: 1px solid #eeeeee;
+}
+
+.as-icon-box-grid .icon {
+  margin: 0 12px 0 0;
+}
+
+.as-icon-box-grid .icon i {
+  font-size: 22px;
+}
+
+
+.as-footer {
+  background-color: #1c1c1c;
+  padding: 67px 0 0;
+}
+
+.as-footer__wrap .x-menu-link-text {
+  
+}
+
+.as-footer__logo {
+  /* margin: 0 auto; */
+  display: flex;
+  flex-direction: column-reverse;
+  align-items: center;
+  justify-content: center;
+  width: fit-content;
+  /* background: #bfc1c1; */
+  padding: 24px;
+  border-radius: 12px;
+}
+
+.as-footer__slogan {
+  color: white;
+  font-family: Glass TYGRA;
+  padding: 0 6px;
+  font-weight: 700;
+  font-size: 1em;
+  margin: 10px 0 0;
+}
+
+.as-footer__logo-link {}
+
+.as-footer__logo-img {
+  height: 100px!important;
+}
+
+.as-footer__map {
+  width: 100%;
+  overflow: hidden;
+  margin: 0 auto;
+  max-width: 100%;
+}
+
+.as-footer-menu {
+  justify-content: center;
+}
+
+.as-mp-contact .wpcf7-form {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 24px;
+}
+
+.as-mp-contact .wpcf7-form p:nth-child(5) {
+  grid-column: 1/-1;
+}
+
+.as-mp-contact .wpcf7-form p:nth-child(7) {
+  grid-column: 2/4;
+}
+
+.as-mp-contact .wpcf7-form p {
+  margin: 0;
+}
+
+.g5shop__shop-toolbar-bottom {
+  display: none;
+}
+
+@media all and (min-width:1025px) {
+
+  .primary-sidebar-inner.sticky {
+    padding-bottom: 120px;
+  }
+
+  .g5core-header-desktop-wrapper .menu-horizontal .sub-menu,
+  .as-footer-menu .menu-horizontal .sub-menu {
+    width: 100% !important;
+    padding: 0;
+  }
+
+  .g5core-header-desktop-wrapper .menu-horizontal>.sub-menu,
+  .as-footer-menu .menu-horizontal>.sub-menu {
+    left: 0 !important;
+  }
+
+  .menu-horizontal>.menu-item>.sub-menu,
+  .as-footer-menu .menu-horizontal>.menu-item>.sub-menu {
+    top: 100%;
+    left: 0 !important;
+  }
+
+  ul.sub-menu,
+  .as-footer-menu ul.sub-menu {
+    left: 90% !important;
+  }
+
+  .g5core-header-desktop-wrapper .menu-horizontal .sub-menu .menu-item>a,
+  .as-footer-menu .menu-horizontal .sub-menu .menu-item>a {
+    font-size: 13px;
+    padding: 8px 16px;
+  }
+
+  .menu-horizontal .sub-menu .menu-item-has-children>a .caret,
+  .as-footer-menu .sub-menu .menu-item-has-children>a .caret {
+    position: absolute;
+    right: 12px;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    display: flex;
+    align-items: center;
+  }
+}
+
+@media all and (max-width: 1024px) {
+  .as-icon-box-grid .wpb_wrapper {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+
+
+
+@media all and (max-width: 767px) {
+
+.g5shop__search-product-popup .g5shop__search-product-cat{
+  display: block !important;
+}
+
+  .as-mp-contact .wpcf7-form {
+    grid-template-columns: 1fr;
+  }
+
+  .as-mp-contact .wpcf7-form p:nth-child(7) {
+    grid-column: 1/-1;
+  }
+
+  .as-footer-menu .menu-horizontal.x-nav-menu>.menu-item+.menu-item {
+    margin: 0;
+  }
+
+  .as-footer-menu.site-menu .menu-horizontal .menu-item>a {
+    padding: 6px 24px;
+    width: 100%;
+    border-bottom: 1px solid #efefef;
+  }
+
+
+  .as-footer-menu {
+    width: 100%;
+    margin: 47px 0;
+  }
+
+  .as-footer-menu .main-menu--as-footer {
+    width: 100%;
+  }
+
+
+  .as-icon-box-grid .wpb_wrapper {
+    grid-template-columns: repeat(1, 1fr);
+    grid-gap: 24px;
+  }
+
+  .g5core-site-branding {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+
+
+  .sticky-area-wrap.sticky .g5core-mobile-header-inner .site-logo {
+    max-height: 40px;
+  }
+
+  .g5core-top-bar-inner {
+    font-size: 11px;
+  }
+
+  .as-slogan {
+    font-size: 10px;
+    margin-top: 4px;
+    margin-bottom: 0;
+  }
+
+  .as-about-grid .wpb_wrapper {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-gap: 42px 24px;
+  }
+
+  .as-contacts-grid__items {
+    grid-template-columns: repeat(1, 1fr);
+    grid-gap: 36px;
+  }
+}
+
+.footer-top {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding-block: 20px;
+}
+
+@media all and (max-width: 767px) {
+  .footer-top {
+    flex-direction: column;
+  }
+
+  .footer-info {
+    margin-top: 30px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    row-gap: 2px;
+  }
+}
+
+.requsit {
+  margin-bottom: 0px;
+}
+
+.footer-nav {
+  display: flex;
+  flex-direction: column; 
+}
+
+.footer-nav-link {
+  color: white;
+  font-weight: 700;
+  font-size: 16px;
+}
+
+.footer-contacts {
+  margin-top: 30px;
+}
+
+.footer-contact {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.footer-contact a {
+  color: white;
+}
+
+.footer-socials {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+  margin-top: 30px;
+}

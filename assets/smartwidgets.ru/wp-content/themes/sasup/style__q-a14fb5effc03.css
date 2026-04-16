@@ -1,0 +1,114 @@
+/*!
+Theme Name: Sasup
+Theme URI: http://www.devsnews.com/wp/sasup
+Author: Bdevs
+Author URI: https://themeforest.net/user/bdevs/portfolio
+Description: Sasup - Sass Landing WordPress Theme
+Version: 1.0.8
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain: sasup
+Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+.section-title-2 .s-title {
+  margin-bottom: 12px;
+  font-weight: 600;
+  color: #0a1426;
+  font-size: 40px;
+  line-height: 50px;
+}
+
+.header-custom 	ul li a {
+    color: #222;}
+.header-custom .sasup-transparent-btn {
+    color: #222;}
+.header-custom .mobile-bar-control-white .line {
+    background-color: #222;
+}
+
+.copyright-lang {
+  display: flex;
+  justify-content: flex-end
+}
+
+.copyright-text a{
+	color: #c0c1cb;
+    margin: 0 11px;
+}
+
+.started-label img {margin-left: 20px;}
+
+.sasup-hero-content .wpcf7-form-control.wpcf7-text.wpcf7-email.wpcf7-validates-as-email {
+    width: 100%;
+    border: 0;
+    padding-left: 16px;
+	background-color: transparent;
+    margin-top: 8px;}
+
+.jet-listing-dynamic-field__content .NEW {
+	color: #ffffff;
+    background: #ff2f25;
+    padding: 2px 10px;
+	border-radius: 15px;}
+.jet-listing-dynamic-field__content .coming {
+	color: #ffffff;
+    background: #0fb542;
+    padding: 2px 10px;
+	border-radius: 15px;
+}
+
+.jet-listing-dynamic-field__content .bestseller {
+	color: #ffffff;
+    background: #b347aa;
+    padding: 2px 10px;
+	border-radius: 15px;}
+
+@media (min-width: 768px) and (max-width: 991px){
+ .responsive-sidebar {width: 450px;}
+}
+.pricehot::after {
+	position: absolute;
+    left: 50%;
+    top: 0;
+    transform: translateX(-50%);
+    height: 5px;    width: 170px;
+	background-color: #16b753;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    content: "";}
+
+.single-pricer::after {
+    position: absolute;
+    left: 50%;
+    top: 0;
+    transform: translateX(-50%);
+    height: 5px;    width: 170px;
+	background-color: #AF85FF;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    content: "";}
+.section-title-2 .s-title {font-weight: 600;}
+.svoiprice {box-shadow: 0px 30px 70px 0px rgb(0 5 39 / 10%);}
+.jet-listing-dynamic-post-2857 #filte-card  {background: #a14c96;}
+.jet-listing-dynamic-post-2857 #filte-card .elementor-star-rating__wrapper {display: none;}
+.jet-listing-dynamic-post-2857 #filte-card h5{color: #fff;}
+.jet-listing-dynamic-post-2857 #filte-card .jet-listing-dynamic-field {justify-content: center;}
+
+
+.footer-widgetall {
+    left: 100%;
+    top: 0px;
+    margin-left: 8px;
+    text-transform: uppercase;
+    height: 17px;
+    line-height: 17px;
+    font-size: 10px;
+    font-weight: 700;
+    color: #fff;
+    background: #2f75ff;
+    border-radius: 10px;    padding: 0 5px;
+    white-space: nowrap;
+}

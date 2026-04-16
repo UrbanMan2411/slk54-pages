@@ -1,0 +1,2 @@
+(self.modernJsonp=self.modernJsonp||[]).push([["48967"],{610743(n,_,o){o.d(_,{A:()=>e});let e=o(53612).A},739895(n,_,o){(window.__PWS_LOADED_HANDLERS__=window.__PWS_LOADED_HANDLERS__||[]).push(["www/about/trademark",function(){return o(610743).A}])}},function(n){n.O(0,["28277","3204","34965","49517","51405","73935","74902","78180","80816","84701","90051","91796"],function(){return n(n.s=739895)}),n.O()}]);
+//# sourceMappingURL=https://sm.pinimg.com/webapp/www/about/trademark-103da0b25c876bf8.mjs.map

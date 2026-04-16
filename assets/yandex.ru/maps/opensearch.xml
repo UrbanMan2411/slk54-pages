@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+    <ShortName>Яндекс Карты</ShortName>
+    <ShortName xmlns="http://browser.yandex.ru/opensearchextensions/">Карты</ShortName>
+    <Description>Поиск адресов и организаций</Description>
+    <Url type="text/html" template="https://yandex.ru/maps/?text={searchTerms}"/>
+    <Image type="image/png" width="64" height="64">https://yandex.ru/maps/favicon64x64.png</Image>
+    <Image type="image/x-icon" width="16" height="16">https://yandex.ru/maps/favicon.ico</Image>
+    <InputEncoding>UTF-8</InputEncoding>
+</OpenSearchDescription>

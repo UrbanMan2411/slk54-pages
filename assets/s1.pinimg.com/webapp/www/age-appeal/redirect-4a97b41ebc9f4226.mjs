@@ -1,0 +1,2 @@
+(self.modernJsonp=self.modernJsonp||[]).push([["51568"],{232534(n,_,e){e.d(_,{A:()=>o});let o=e(29).A},675555(n,_,e){(window.__PWS_LOADED_HANDLERS__=window.__PWS_LOADED_HANDLERS__||[]).push(["www/age-appeal/redirect",function(){return e(232534).A}])}},function(n){n.O(0,["49517","51405","68366","78180","90051","91796"],function(){return n(n.s=675555)}),n.O()}]);
+//# sourceMappingURL=https://sm.pinimg.com/webapp/www/age-appeal/redirect-4a97b41ebc9f4226.mjs.map

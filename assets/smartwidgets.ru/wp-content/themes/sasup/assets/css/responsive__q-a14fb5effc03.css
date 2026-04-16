@@ -1,0 +1,57 @@
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+	.hero-main{
+		height: 800px;
+	}
+
+}
+
+/* Normal desktop :1300px. */
+@media (min-width: 1200px) and (max-width: 1400px) {
+	.hero-main{
+		height: 700px;
+	}
+
+}
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+	.hero-main{
+		height: 650px;
+	}
+
+}
+
+ 
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+	.hero-main{
+		height: 600px;
+	}
+	.blog__details-wrapper.mr-45 {
+		margin-right: 0;
+	}
+
+}
+
+ 
+/* small mobile :320px. */
+@media (max-width: 767px) {
+	.hero-main{
+		height: 450px;
+	}
+	.blog__details-wrapper.mr-45 {
+		margin-right: 0;
+	}
+
+}
+ 
+/* Large Mobile :480px. */
+@media only screen and (min-width: 550px) and (max-width: 767px) {
+	.hero-main{
+		height: 500px;
+	}
+
+
+ 
+}

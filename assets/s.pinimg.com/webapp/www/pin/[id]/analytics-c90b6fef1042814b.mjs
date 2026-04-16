@@ -1,0 +1,2 @@
+(self.modernJsonp=self.modernJsonp||[]).push([["10736"],{475938(n,_,i){i.d(_,{A:()=>o});let o=(0,i(695185).A)("/pin/:id/analytics")},558881(n,_,i){(window.__PWS_LOADED_HANDLERS__=window.__PWS_LOADED_HANDLERS__||[]).push(["www/pin/[id]/analytics",function(){return i(475938).A}])}},function(n){n.O(0,["80816","91796","97785"],function(){return n(n.s=558881)}),n.O()}]);
+//# sourceMappingURL=https://sm.pinimg.com/webapp/www/pin/[id]/analytics-c90b6fef1042814b.mjs.map

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>SmartWidgets</title>
+	<atom:link href="./" rel="self" type="application/rss+xml" />
+	<link>https://smartwidgets.ru</link>
+	<description>Ещё один сайт на WordPress</description>
+	<lastBuildDate>Thu, 26 Jun 2025 11:35:47 +0000</lastBuildDate>
+	<language>ru-RU</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.13</generator>
+
+<image>
+	<url>../wp-content/uploads/2022/01/</url>
+	<title>SmartWidgets</title>
+	<link>https://smartwidgets.ru</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Защищено: Гайд для маркетологов: как эффективно работать с негативными отзывами в 2025 году</title>
+		<link>https://smartwidgets.ru/blog/negative-reviews-marketing-guide/</link>
+		
+		<dc:creator><![CDATA[5G73X3xwqS]]></dc:creator>
+		<pubDate>Thu, 26 Jun 2025 11:22:44 +0000</pubDate>
+				<category><![CDATA[Без рубрики]]></category>
+		<guid isPermaLink="false">https://smartwidgets.ru/?p=11243</guid>
+
+					<description><![CDATA[Отрывка нет, потому что запись защищена.]]></description>
+										<content:encoded><![CDATA[<form action="https://smartwidgets.ru/wp-login.php?action=postpass" class="post-password-form" method="post">
+<p>Это содержимое защищено паролем. Для его просмотра введите, пожалуйста, пароль:</p>
+<p><label for="pwbox-11243">Пароль: <input name="post_password" id="pwbox-11243" type="password" size="20" /></label> <input type="submit" name="Submit" value="Войти" /></p>
+</form>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
